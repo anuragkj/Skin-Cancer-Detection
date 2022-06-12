@@ -44,7 +44,7 @@ This is interesting to see that __multi-model gives me ≃3.25% return over inve
 
 Click the link below to open and execute my notebook in Google Colab:  
 
-[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/sebastienlange/dermatologist-ai/blob/master/dermatologist_ai.ipynb)
+[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/drive/1Wm3hytivla396-xiybLFZn9RQ2JNPVvm#scrollTo=wmZkDX12FlZx)
   
 Ensure GPU is enabled: Edit > Notebook settings or Runtime>Change runtime type and select GPU as Hardware accelerator
 
